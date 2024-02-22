@@ -1,8 +1,11 @@
 <div align="center">
-![Project Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
-</div>
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 
 Revolutionize your Pakistani business operations with this region-specific ERP solution. Explore the project's [documentation](https://empress.eco/), report a [bug](https://github.com/empress-eco/pakistan/issues), or request a new [feature](https://github.com/empress-eco/pakistan/issues/new).
+
+</div>
+
+
 
 ## About The Project
 
